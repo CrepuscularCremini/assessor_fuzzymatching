@@ -1,0 +1,19 @@
+Here are the updated links to everything so far, let me know if I missed anything!
+
+Lightbox Data
+- Unique Parcel Geometries (for gis anlysis): https://olucdenver.sharepoint.com/:u:/r/sites/RHNA-DenverMetroARea/Shared%20Documents/General/RHNA%20Study/Data%20info/Lightbox%208%20counties/unique_parcel_geometries.zip?csf=1&web=1&e=VY5ZdO
+- LightBox Metadata and Datadictionary: https://olucdenver.sharepoint.com/:f:/r/sites/RHNA-DenverMetroARea/Shared%20Documents/General/RHNA%20Study/Data%20info/Lightbox%20Metadata?csf=1&web=1&e=urUU7M
+- Full LightBox dataset with geometry ID for matching to above: https://olucdenver.sharepoint.com/:u:/r/sites/RHNA-DenverMetroARea/Shared%20Documents/General/RHNA%20Study/Data%20info/Lightbox%208%20counties/FinalLightBox.zip?csf=1&web=1&e=Tsj6MQ
+- Geometry Mapping and Error stuff for LB Data: https://olucdenver.sharepoint.com/:f:/r/sites/RHNA-DenverMetroARea/Shared%20Documents/General/RHNA%20Study/Data%20info/Lightbox%208%20counties/FinalLightBox?csf=1&web=1&e=SyLyc2
+- Missing Points: https://olucdenver.sharepoint.com/:f:/r/sites/RHNA-DenverMetroARea/Shared%20Documents/General/RHNA%20Study/Data%20info/Lightbox%208%20counties/FinalLightBox/Missing?csf=1&web=1&e=4aSba0
+- Link to id matching scripts and documentation for the process: https://github.com/ucd-brenn/lb_fuzz
+
+Census Data (and geometries)
+- Census Data: https://olucdenver.sharepoint.com/:x:/r/sites/RHNA-DenverMetroARea/Shared%20Documents/General/RHNA%20Study/Data%20info/Census/fullCensus.csv?d=w824bc5af69e54df590317cfd093406a8&csf=1&web=1&e=AL7UVU
+- Census to Parcels Crosswalk: https://olucdenver.sharepoint.com/:x:/r/sites/RHNA-DenverMetroARea/Shared%20Documents/General/RHNA%20Study/Data%20info/Census/parcel_to_census.csv?d=webcc1f4592b6412b8456dea6df401a89&csf=1&web=1&e=ADfZYX
+- Historical Housing Data and Maps: https://olucdenver.sharepoint.com/:f:/r/sites/RHNA-DenverMetroARea/Shared%20Documents/General/RHNA%20Study/Data%20info/Historical%20census?csf=1&web=1&e=VwtRgc
+
+General
+- General Folder for GIS Layers: https://olucdenver.sharepoint.com/:f:/r/sites/RHNA-DenverMetroARea/Shared%20Documents/General/RHNA%20Study/Data%20info/GIS%20layers?csf=1&web=1&e=C3ASGq
+  - Currently seperated out with data for each individual county, for the region as a whole, and for the state as a whole
+- And the general folder that has everything above id Data Info in RHNA Study: https://olucdenver.sharepoint.com/:f:/r/sites/RHNA-DenverMetroARea/Shared%20Documents/General/RHNA%20Study/Data%20info?csf=1&web=1&e=JCKmHb
